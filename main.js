@@ -8,7 +8,7 @@ var gl = canvas.getContext('webgl');
 if(!gl){
   console.error("Unable to initialize WebGL.");
 }
-
+ 
 //Time
 var time = 0.0;
 
